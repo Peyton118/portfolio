@@ -90,13 +90,18 @@
 
 .hangman-button {
     margin-top: 2vh;
-    margin-left: 1vw;
-    width: 10vw;
-    height: 10vh;
+    margin-left: 2vw;
+    width: 150px;
+    height: 75px;
     background-color: black
 }
 
 a:link {
+    color: goldenrod;
+    text-decoration: none;
+}
+
+a:visited {
     color: goldenrod;
     text-decoration: none;
 }
