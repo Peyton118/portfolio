@@ -1,0 +1,102 @@
+.background {
+    background-color: black;
+}
+
+.name {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 45vh;
+    font-size:10vh;
+}
+
+.line {
+    color: rgb(246, 216, 47);
+    width: 60vh;
+}
+
+.header-thing {
+    background-color: white;
+    width: 70vh;
+    margin: auto;
+    height:12vh
+}
+
+.about-me {
+    background-color: white;
+    width: 70vh;
+    margin: auto;
+    height:12vh;
+    margin-top: 70vh;
+}
+
+.line2 {
+    color: rgb(246, 216, 47);
+    width: 60vh;
+}
+
+.about {
+    font-size: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+.the-words {
+    font-size: 3vh;
+    display: flex;
+    justify-content: center;
+}
+
+.about-cont {
+    background-color: white;
+    width: 70vh;
+    margin: auto;
+    margin-top: -90vh;
+    height:45vh;
+    margin-top: 7vh;
+}
+
+.header4 {
+    background-color: white;
+    width: 70vh;
+    margin: auto;
+    height:12vh;
+    margin-top: 150vh;
+    font-size:10vh;
+    display: flex;
+    justify-content: center;
+}
+
+.line3 {
+    color: rgb(246, 216, 47);
+    width: 60vh;
+    margin-top: 6vh;
+}
+
+.project-cont {
+    background-color: white;
+    width: 70vh;
+    margin: auto;
+    margin-top: -90vh;
+    height:43vh;
+    margin-top: 7vh;
+}
+
+.line4 {
+    color: rgb(246, 216, 47);
+    width: 60vh;
+    margin-top: 8vh;
+}
+
+.hangman-button {
+    margin-top: 2vh;
+    margin-left: 1vw;
+    width: 10vw;
+    height: 10vh;
+    background-color: black
+}
+
+a:link {
+    color: goldenrod;
+    text-decoration: none;
+}
