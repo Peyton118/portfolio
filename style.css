@@ -45,6 +45,9 @@
     font-size: 3vh;
     display: flex;
     justify-content: center;
+    margin-left: 1vw;
+    margin-top: 3vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .about-cont {
@@ -61,7 +64,7 @@
     width: 70vh;
     margin: auto;
     height:12vh;
-    margin-top: 150vh;
+    margin-top:5vh;
     font-size:10vh;
     display: flex;
     justify-content: center;
@@ -97,11 +100,132 @@
 }
 
 a:link {
-    color: goldenrod;
+    color: black;
     text-decoration: none;
 }
 
 a:visited {
-    color: goldenrod;
+    color: black;
     text-decoration: none;
+}
+
+.header5 {
+    background-color: white;
+    width: 70vh;
+    margin: auto;
+    height:12vh;
+    margin-top: 7vh;
+    font-size:10vh;
+    display: flex;
+    justify-content: center;
+}
+
+.images-cont {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: -90vh;
+    height:500px;
+    margin-top: 7vh;
+}
+.python {
+    width: 120px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.html {
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.css {
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.java {
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.c- {
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.dj {
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.java {
+    width: 120px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.SQL {
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.line5 {
+    color: rgb(246, 216, 47);
+    width: 60vh;
+    margin-top: 8vh;
+}
+
+.line25 {
+    color: rgb(246, 216, 47);
+    width: 60vh;
+    margin-top: 63vh;
+    
+}
+
+.contacts-cont {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: -90vh;
+    height:220px;
+    margin-top: 7vh;
+
+}
+
+.header6 {
+    display: flex;
+    justify-content: center;
+}
+
+.contact1 {
+    margin-left: 160px;
+}
+
+.contact2 {
+    margin-left: 100px;
+}
+
+.contact3 {
+    margin-left: 200px;
+}
+
+.contact4 {
+    margin-left: 193px
+}
+
+.contact5 {
+    margin-left: 190px;
+}
+
+.line6 {
+    color: rgb(246, 216, 47);
+    width: 60vh;
+    margin-top: 10vh;
 }
